@@ -1,0 +1,9 @@
+﻿  ATMSystem.cpp
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\ATMSystem\clsString.h(42,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\ATMSystem\clsString.h(47,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\ATMSystem\clsString.h(59,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\ATMSystem\clsString.h(196,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\ATMSystem\clsString.h(327,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\ATMSystem\clsString.h(375,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\ATMSystem\clsCheckBalance.h(18,27): warning C4129: 'C': unrecognized character escape sequence
+  ATMSystem.vcxproj -> E:\مهم جدا أبو هدوهد\مشاريع مهمة\ATMSystem\x64\Debug\ATMSystem.exe
